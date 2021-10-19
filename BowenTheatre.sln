@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2037
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BowenTheatre.Bookings", "BowenTheatre.Bookings\BowenTheatre.Bookings.vbproj", "{DF3254E4-3F26-4D27-9031-30F56AA7F44C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AC0A6F3A-7DF0-41F1-8EBE-E07A5F158128}"
+	ProjectSection(SolutionItems) = preProject
+		Bowen Theatre project design and documentation.pdf = Bowen Theatre project design and documentation.pdf
+		readme.MD = readme.MD
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

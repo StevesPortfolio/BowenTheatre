@@ -5,6 +5,7 @@ The Bowen Theatre is a small purpose-built theatre. It has four rows and six sea
 This program was written as part of Certificate IV in Programming.
 
 __BASIC PROGRAM REQUIREMENTS__
+
 The program for Bowen Theatre’s Reserva􀆟on/Booking system needs to perform the following
 basic func􀆟ons:
 
