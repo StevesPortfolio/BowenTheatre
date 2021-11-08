@@ -6,7 +6,7 @@ This program was written as part of Certificate IV in Programming.
 
 __BASIC PROGRAM REQUIREMENTS__
 
-The program for Bowen Theatre’s Reserva􀆟on/Booking system needs to perform the following
+The program for Bowen Theatre’s Reservation/Booking system needs to perform the following
 basic func􀆟ons:
 
 1. Accept and store bookings from people wan􀆟ng seats at the theatre;
